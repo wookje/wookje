@@ -1,6 +1,8 @@
 ## Hi
 
-Backend engineer, AI Ops
+Working on AI Ops Engineer
+
+Undergraduated CSE student, Solider(?)
 
 ### Skill
 - Programming Language: `Kotlin`, `Java`, `C/C++`, `Ruby`, `Python`, `Dart`, `C#`
