@@ -2,7 +2,7 @@
 
 Working on AI Ops Engineer
 
-Undergraduated CSE student, solider(?)
+Undergraduat CSE student, solider(?)
 
 Usually don't type a codes on weekend
 
