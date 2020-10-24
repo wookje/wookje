@@ -1,8 +1,8 @@
 ## Hi
 
-Working on AI Ops Engineer
+Working as AI Ops Engineer
 
-Undergraduat CSE student, solider(?)
+Undergraduat CSE student, soldier(?)
 
 Usually don't type a codes on weekend
 
