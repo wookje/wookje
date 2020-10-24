@@ -2,7 +2,7 @@
 
 Working on AI Ops Engineer
 
-Undergraduated CSE student, Solider(?)
+Undergraduated CSE student, solider(?)
 
 ### Skill
 - Programming Language: `Kotlin`, `Java`, `C/C++`, `Ruby`, `Python`, `Dart`, `C#`
@@ -15,3 +15,9 @@ Undergraduated CSE student, Solider(?)
 - Hosted, maintained 15+ algorithm contests
 - More details at [Blog](http://wookje.dance)(KR)
 - Online Judge [BOJ](https://www.acmicpc.net/user/wookje)
+
+### Favorite
+- Studying Wine!
+- Beer
+- Electronics
+- Clothing
