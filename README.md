@@ -10,5 +10,6 @@ Backend engineer, AI Ops
 
 ### Algorithm
 - Participating in competitive programming for 7 years
-- [Blog](http://wookje.dance)
-- [BOJ](https://www.acmicpc.net/user/wookje)
+- Hosted, maintained 15+ algorithm contests
+- More details at [Blog](http://wookje.dance)(KR)
+- Online Judge [BOJ](https://www.acmicpc.net/user/wookje)
