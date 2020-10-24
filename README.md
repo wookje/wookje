@@ -2,7 +2,7 @@
 
 Working as AI Ops Engineer
 
-Undergraduat CSE student, soldier(?)
+Undergraduate CSE student, soldier(?)
 
 Usually don't type a codes on weekend
 
