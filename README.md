@@ -4,6 +4,8 @@ Working on AI Ops Engineer
 
 Undergraduated CSE student, solider(?)
 
+Usually don't type a codes on weekend
+
 ### Skill
 - Programming Language: `Kotlin`, `Java`, `C/C++`, `Ruby`, `Python`, `Dart`, `C#`
 - Framework: `Spring Boot`, `Flutter`, `Ruby on Rails`, `.NET`, `Flask`
