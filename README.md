@@ -1,6 +1,8 @@
 ## Hi
 
-Working as AI Ops Engineer
+Worked as AI Ops Engineer
+
+Working as Software Engineer
 
 Undergraduate CSE student, soldier(?)
 
